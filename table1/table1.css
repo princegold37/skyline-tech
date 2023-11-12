@@ -1,0 +1,37 @@
+table, td, th{
+    border-bottom: 2px solid;
+    border-collapse: collapse;
+    border-color: black;
+}
+
+table{
+    width: 70%;
+    font-size: 18px;
+    margin: auto;
+}
+
+td,th{
+    padding: 10px;
+   
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+/* tr:nth-child(even){
+    background-color: rgb(226, 224, 224);
+} */
+
+caption{
+    background-color: blue;
+    /* border-bottom: 35px; */
+    line-height: 35px;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+td, button, green{}
