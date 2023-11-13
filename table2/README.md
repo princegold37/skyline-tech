@@ -1,1 +1,1 @@
-I did exactly as instructed by skyline during class
+I did exactly as instructed by skyline during class. the table contains informations about my cohort performance
